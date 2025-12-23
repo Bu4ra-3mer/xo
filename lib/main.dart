@@ -74,7 +74,7 @@ class HeaderSection extends StatelessWidget {
           style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
         ),
         Text(
-          'Player X = $o',
+          'Player O = $o',
           style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
         ),
       ],
