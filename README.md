@@ -19,7 +19,5 @@ https://github.com/user-attachments/assets/58bf81e8-2f03-4f45-9142-b9563e6bcc87
 - GridView for game board
 - setState for state management
 
-## 🔌 APIs & Services Used
-- None (offline local game)
 
 
