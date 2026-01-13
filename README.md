@@ -1,4 +1,4 @@
-# xo ❌⭕️
+# xo 
 
 A simple Flutter Tic Tac Toe (XO) game with score tracking.
 
@@ -22,8 +22,4 @@ https://github.com/user-attachments/assets/58bf81e8-2f03-4f45-9142-b9563e6bcc87
 ## 🔌 APIs & Services Used
 - None (offline local game)
 
-## 📦 Getting Started
-This project is a Flutter application.
 
-For help getting started with Flutter development, view the  
-[online documentation](https://docs.flutter.dev/).
