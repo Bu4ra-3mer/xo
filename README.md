@@ -1,16 +1,29 @@
-# xo
+# xo ❌⭕️
 
-A new Flutter project.
+A simple Flutter Tic Tac Toe (XO) game with score tracking.
 
-## Getting Started
+## 📱 App Demo
+https://github.com/user-attachments/assets/58bf81e8-2f03-4f45-9142-b9563e6bcc87
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Classic Tic Tac Toe (X-O) gameplay
+- Score tracking for Player X and Player O
+- Game over dialog with winner display
+- Reset board and play again
+- Clean and simple UI
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
+- Flutter
+- Dart
+- Stateful & Stateless Widgets
+- GridView for game board
+- setState for state management
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🔌 APIs & Services Used
+- None (offline local game)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Getting Started
+This project is a Flutter application.
+
+For help getting started with Flutter development, view the  
+[online documentation](https://docs.flutter.dev/).
